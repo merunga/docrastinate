@@ -33,6 +33,7 @@ $(document).ready(function () {
 });
 
 $("textarea").mouseover(function(){
+	'use strict';
 	$(this).focus();
 });
 
