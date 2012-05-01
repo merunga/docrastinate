@@ -1,8 +1,8 @@
-# Docrastinate
+# [Docrastinate](http://docrastinate.com)
 
 An planner based on my triptych organization system: calendar, projects & personal.
 This is a very early version, especially the calendar column needs lots of love.
-
+Unhost your plans at [docrastinate.com](http://docrastinate.com)!
 
 
 ## Unhosted
