@@ -32,6 +32,10 @@ $(document).ready(function () {
 	});
 });
 
+$("textarea").mouseover(function(){
+	$(this).focus();
+});
+
 $(window).unload(function () { // save values and scroll position on exit
 	'use strict';
 	localStorage.setItem('calendar', $('#calendar').val());
