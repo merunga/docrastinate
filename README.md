@@ -7,7 +7,7 @@ Unhost your plans at [docrastinate.com](http://docrastinate.com)!
 
 ## Unhosted
 
-**This app allows you to use your own data storage!** This app is fully client-side without any server backend you need to trust! Find out more about the [Unhosted movement](http://unhosted.org). localStorage is used as fallback, so you can also use it offline.
+**This app allows you to use your own data storage!** Its code is fully client-side without any server backend you need to trust! Find out more about the [Unhosted movement](http://unhosted.org). localStorage is used as fallback, so you can also use it offline.
 
 
 
